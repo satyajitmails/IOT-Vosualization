@@ -1,4 +1,4 @@
 IOT-Vosualization
 =================
 
-This creates visualization fro Inter Of Things using Rickshaw
+This creates visualization from Internet Of Things using Rickshaw
